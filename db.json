@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "1000",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "RIb Eye 1kg",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "Hamburguesa",
+      "precio": 180,
+      "id": 7
+    },
+    {
+      "nombre": "tequila",
+      "precio": 100,
+      "id": 8
+    }
+  ]
+}
